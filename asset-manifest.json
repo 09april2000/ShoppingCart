@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diamondlady/static/css/main.9df2d816.css",
+    "main.js": "/diamondlady/static/js/main.269e60b4.js",
+    "index.html": "/diamondlady/index.html",
+    "main.9df2d816.css.map": "/diamondlady/static/css/main.9df2d816.css.map",
+    "main.269e60b4.js.map": "/diamondlady/static/js/main.269e60b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df2d816.css",
+    "static/js/main.269e60b4.js"
+  ]
+}
